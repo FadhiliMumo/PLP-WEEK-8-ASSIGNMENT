@@ -27,7 +27,7 @@ The **Student Records Database** is a simple and well-structured database design
   - Students can enroll in multiple courses.
   - Each course is taught by one instructor.
 
-![image of erd diagram](./PLP-WEEK-8-ASSIGNMENT/Screenshot-from-2025-05-19-10-51-57.png)
+![image of erd diagram](/Screenshot-from-2025-05-19-10-51-57.png)
 - **Data Integrity**: The database ensures that:
   - No two students or instructors can have the same email.
   - A student cannot enroll in the same course more than once.
